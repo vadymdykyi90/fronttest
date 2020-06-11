@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 15" width="16" height="15">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-519 -15L761 -15L761 785L-519 785Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #d8d6d6;stroke-width: 0.989 } 
+		.shp1 { fill: #d8d6d6 } 
+	</style>
+	<g id="2. Labels" clip-path="url(#cp1)">
+		<g id="MENU">
+			<g id="icons" style="opacity: 0.808">
+				<g id="exercise icon" style="opacity: 0.6">
+					<path id="Stroke 4" class="shp0" d="M12.72 13.82L2.89 13.82C2.17 13.82 1.59 13.25 1.59 12.55L1.59 2.43C1.59 2 1.95 1.65 2.39 1.65L12.72 1.65C13.43 1.65 14.01 2.21 14.01 2.92L14.01 12.55C14.01 13.25 13.43 13.82 12.72 13.82Z" />
+					<path id="Fill 24" class="shp1" d="M10.11 7.4L5.35 7.4C5.01 7.4 4.74 7.14 4.74 6.81C4.74 6.49 5.01 6.22 5.35 6.22L10.11 6.22C10.44 6.22 10.72 6.49 10.72 6.81C10.72 7.14 10.44 7.4 10.11 7.4" />
+					<path id="Fill 26" class="shp1" d="M11.09 10.34L9.07 10.34C8.74 10.34 8.46 10.08 8.46 9.75C8.46 9.43 8.74 9.16 9.07 9.16L11.09 9.16C11.42 9.16 11.7 9.43 11.7 9.75C11.7 10.08 11.42 10.34 11.09 10.34" />
+					<path id="Fill 28" class="shp1" d="M4.94 4.79L3.95 4.79C3.62 4.79 3.35 4.52 3.35 4.2C3.35 3.87 3.62 3.61 3.95 3.61L4.94 3.61C5.28 3.61 5.55 3.87 5.55 4.2C5.55 4.52 5.28 4.79 4.94 4.79" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

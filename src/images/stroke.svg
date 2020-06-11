@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 13" width="18" height="13">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-589 -17L691 -17L691 783L-589 783Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.6;fill: none;stroke: #d8d6d6;stroke-width: 0.989 } 
+	</style>
+	<g id="2. Labels" clip-path="url(#cp1)">
+		<g id="MENU">
+			<g id="icons" style="opacity: 0.808">
+				<path id="Stroke 14" class="shp0" d="M1.54 10.29L4.1 5.29C4.25 5.02 4.65 5.06 4.74 5.36L6.31 11.01C6.4 11.35 6.9 11.34 6.98 11L9.13 2.18C9.22 1.82 9.74 1.83 9.81 2.19L11.33 9.81C11.4 10.16 11.9 10.18 12 9.84L13.48 5.12C13.57 4.82 14 4.8 14.13 5.09L16.53 10.6" />
+			</g>
+		</g>
+	</g>
+</svg>

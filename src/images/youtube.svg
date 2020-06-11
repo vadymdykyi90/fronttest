@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 10" width="12" height="10">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-822 -18L458 -18L458 782L-822 782Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M0.36 0.6L134.67 0.6L134.67 9.14L0.36 9.14L0.36 0.6Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #848484 } 
+	</style>
+	<g id="2. Labels" clip-path="url(#cp1)">
+		<g id="MENU">
+			<g id="tutorial">
+				<g id="Mask by Clip 1" clip-path="url(#cp2)">
+					<path id="Fill 3" class="shp0" d="M4.69 4.8L4.69 3.21L6.09 4L7.5 4.8L6.09 5.59L4.69 6.39L4.69 4.8Z" />
+					<path id="Fill 2" fill-rule="evenodd" class="shp0" d="M5.78 8.24C0.61 8.17 1.21 9.02 1.13 3.62C1.1 2.09 1.75 1.49 3.26 1.53C5.05 1.58 6.85 1.54 8.64 1.55C9.79 1.55 10.45 2.05 10.41 3.26C10.4 3.37 10.41 3.49 10.41 3.61C10.38 9.06 10.89 8.17 5.78 8.24ZM5.78 0.78C4.82 0.78 3.85 0.76 2.89 0.78C1.08 0.81 0.41 1.46 0.37 3.23C0.34 4.41 0.37 5.58 0.36 6.76C0.36 8.36 1.18 9.14 2.8 9.14C4.55 9.14 6.29 9.15 8.03 9.14C10.67 9.13 11.16 8.63 11.19 6.05C11.27 0.56 11.31 0.69 5.78 0.78Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

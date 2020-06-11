@@ -1,0 +1,31 @@
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
+@import './components/Menu/menu.scss';
+@import './components/Breadcrumbs/breadcrumbs.scss';
+@import './components/Tabs/tabs.scss';
+@import './components/Labels/labels.scss';
+@import './components/Buttons/buttons.scss';
+@import './components/Footer/footer.scss';
+
+.app-root {
+  position: relative;
+  height: 100vh;
+  background-color: #f9fafb;
+
+  h1 {
+    margin-bottom: 53px;
+    padding-left: 10px;
+    font-size: 44px;
+    letter-spacing: -1px;
+    color: #242424;
+    font-weight: bold;
+  }
+
+  .tabs-divider {
+    position: absolute;
+    border-bottom: 1px solid #cccccc;
+    width: calc(100vw - 32px);
+    top: 325px;
+    left: 16px;
+  }
+}

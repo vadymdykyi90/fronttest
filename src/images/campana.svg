@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="12" height="12">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-625 -17L655 -17L655 783L-625 783Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #d8d6d6;stroke-width: 0.989 } 
+		.shp1 { fill: #d8d6d6 } 
+	</style>
+	<g id="2. Labels" clip-path="url(#cp1)">
+		<g id="MENU">
+			<g id="icons" style="opacity: 0.808">
+				<g id="campana" style="opacity: 0.6">
+					<path id="Stroke 16" class="shp0" d="M1.8 10.39L1.8 5.54C1.8 5.32 1.86 5.12 1.98 4.93C2.52 4.04 4.25 1.48 6.07 1.41" />
+					<path id="Stroke 18" class="shp0" d="M10.34 10.39L10.34 5.54C10.34 5.32 10.28 5.12 10.17 4.93C9.62 4.04 7.9 1.48 6.07 1.41" />
+					<path id="Fill 20" class="shp1" d="M10.74 10.99L1.13 10.99C0.79 10.99 0.51 10.72 0.51 10.39C0.51 10.06 0.79 9.79 1.13 9.79L10.74 9.79C11.08 9.79 11.36 10.06 11.36 10.39C11.36 10.72 11.08 10.99 10.74 10.99" />
+					<path id="Fill 22" class="shp1" d="M6.41 11.96L5.46 11.96C5.12 11.96 4.85 11.69 4.85 11.35L4.85 11.27C4.85 10.94 5.12 10.67 5.46 10.67L6.41 10.67C6.75 10.67 7.02 10.94 7.02 11.27L7.02 11.35C7.02 11.69 6.75 11.96 6.41 11.96" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

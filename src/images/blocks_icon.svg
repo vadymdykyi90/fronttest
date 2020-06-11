@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" width="15" height="15">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-555 -15L725 -15L725 785L-555 785Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #d8d6d6;stroke-width: 0.989 } 
+	</style>
+	<g id="2. Labels" clip-path="url(#cp1)">
+		<g id="MENU">
+			<g id="icons" style="opacity: 0.808">
+				<g id="blocks icon" style="opacity: 0.6">
+					<path id="Stroke 6" class="shp0" d="M12.38 13.84L9.83 13.84C9.14 13.84 8.58 13.3 8.58 12.62L8.58 9.19C8.58 8.51 9.14 7.96 9.83 7.96L12.38 7.96C13.07 7.96 13.62 8.51 13.62 9.19L13.62 12.62C13.62 13.3 13.07 13.84 12.38 13.84Z" />
+					<path id="Stroke 8" class="shp0" d="M12.38 6.02L9.83 6.02C9.14 6.02 8.58 5.47 8.58 4.79L8.58 2.87C8.58 2.19 9.14 1.65 9.83 1.65L12.38 1.65C13.07 1.65 13.62 2.19 13.62 2.87L13.62 4.79C13.62 5.47 13.07 6.02 12.38 6.02Z" />
+					<path id="Stroke 10" class="shp0" d="M5.36 13.84L2.81 13.84C2.12 13.84 1.57 13.3 1.57 12.62L1.57 11.34C1.57 10.67 2.12 10.12 2.81 10.12L5.36 10.12C6.05 10.12 6.61 10.67 6.61 11.34L6.61 12.62C6.61 13.3 6.05 13.84 5.36 13.84Z" />
+					<path id="Stroke 12" class="shp0" d="M5.36 8.49L2.81 8.49C2.12 8.49 1.57 7.94 1.57 7.27L1.57 2.87C1.57 2.19 2.12 1.65 2.81 1.65L5.36 1.65C6.05 1.65 6.61 2.19 6.61 2.87L6.61 7.27C6.61 7.94 6.05 8.49 5.36 8.49Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

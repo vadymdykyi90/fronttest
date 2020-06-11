@@ -1,0 +1,28 @@
+.labels-container {
+  margin-top: 24px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 0 4px #cccccc;
+  padding: 16px;
+  font-size: 14px;
+
+  h4 {
+    font-size: 16px;
+    color: #495057;
+  }
+
+  .input-row {
+    padding: 4px 0;
+
+    &.add-family {
+      color: #242424;
+    }
+  }
+
+  .family {
+    padding: 8px;
+    border-radius: 8px;
+    box-shadow: 0 0 2px #cccccc;
+    margin-bottom: 4px;
+  }
+}
